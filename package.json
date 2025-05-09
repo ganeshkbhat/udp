@@ -1,0 +1,25 @@
+{
+  "name": "udp",
+  "version": "1.0.0",
+  "description": "protocol implementation server for udp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkbhat/udp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganeshkbhat/udp/issues"
+  },
+  "homepage": "https://github.com/ganeshkbhat/udp#readme",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.2.2",
+    "sinon": "^20.0.0"
+  }
+}
