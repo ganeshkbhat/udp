@@ -1,5 +1,5 @@
 {
-  "name": "udp",
+  "name": "js-udp",
   "version": "1.0.0",
   "description": "protocol implementation server for udp",
   "main": "index.js",
