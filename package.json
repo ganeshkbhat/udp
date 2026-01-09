@@ -4,7 +4,7 @@
   "description": "protocol implementation server for udp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec --recursive --timeout 60000"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
     "sinon": "^20.0.0"
   },
   "dependencies": {
-    "protocol-interfaces": "^1.0.0"
+    
   }
 }
